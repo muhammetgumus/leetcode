@@ -1,17 +1,12 @@
 package src;
 
-import java.nio.file.LinkPermission;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
-import java.util.LinkedHashSet;
 
 public class Q3_LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("dvdf"));
         System.out.println(lengthOfLongestSubstring("abcadb"));
     }
-
 
     public static int lengthOfLongestSubstring(String input) {
         if (input.length() == 0) {
