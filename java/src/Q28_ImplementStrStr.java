@@ -1,7 +1,5 @@
 package src;
 
-import java.util.Locale;
-
 public class Q28_ImplementStrStr {
     public static void main(String[] args) {
         Q28_ImplementStrStr obj = new Q28_ImplementStrStr();
