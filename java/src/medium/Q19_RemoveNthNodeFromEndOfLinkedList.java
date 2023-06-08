@@ -1,4 +1,4 @@
-package src;
+package src.medium;
 
 public class Q19_RemoveNthNodeFromEndOfLinkedList {
     public static void main(String[] args) {

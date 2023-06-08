@@ -1,4 +1,4 @@
-package src;
+package src.hard;
 
 public class Q4_MedianOfTwoSortedArrays {
     public static void main(String[] args) {

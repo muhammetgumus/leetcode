@@ -1,4 +1,4 @@
-package src;
+package src.easy;
 
 public class Q28_ImplementStrStr {
     public static void main(String[] args) {

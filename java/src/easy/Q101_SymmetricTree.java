@@ -1,4 +1,4 @@
-package src;
+package src.easy;
 
 public class Q101_SymmetricTree {
     public static void main(String[] args) {

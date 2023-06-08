@@ -1,4 +1,4 @@
-package src;
+package src.easy;
 
 public class Q66_PlusOne {
     public static void main(String[] args) {

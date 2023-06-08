@@ -1,4 +1,4 @@
-package src;
+package src.medium;
 
 public class Q237_DeleteNodeInLinkedList {
     public static void main(String[] args) {

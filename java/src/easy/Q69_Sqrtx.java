@@ -1,4 +1,4 @@
-package src;
+package src.easy;
 
 public class Q69_Sqrtx {
     public static void main(String[] args) {
